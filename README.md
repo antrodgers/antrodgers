@@ -8,11 +8,11 @@ I've run a UK multichannel retailer ([The Protein Pick and Mix](https://proteinp
 
 A multi-tenant warehouse and order management SaaS for UK 3PLs and multichannel D2C brands, where the 3PL and its clients share one system.
 
-- **Integrations:** Shopify (public app), BigCommerce, TikTok Shop, WooCommerce
+- **Integrations:** Shopify (public app), BigCommerce, TikTok Shop, WooCommerce, eBay
 - **Warehouse:** goods-in, bin locations, stock ledger, barcode pick and pack, returns, purchase orders
 - **Client portal:** live stock, orders, sales, profit and store connection health
 - **Security and privacy:** strict tenant isolation, field-level encryption, GDPR export and erasure, 2FA and passkeys
-- **Scale:** built solo in about 11 weeks, with ~2,700 automated tests, 167 merged PRs and 71 domain models
+- **Scale:** built solo in about 13 weeks, with ~3,400 automated tests, 235 merged PRs and 76 domain models
 
 > **Development Status:** Currently in local dev.
 
